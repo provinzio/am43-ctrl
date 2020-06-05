@@ -35,7 +35,7 @@ Username and password for MQTT may be specified with `-u` and `-p` option
 
 If no password argument is supplied, you can enter it interactively
 
-Base topic defaults to `homeassistant`, but may be configured with the `-topic` option
+Base topic defaults to `homeassistant`, but may be configured with the `--topic` option
 
 
 # MQTT
