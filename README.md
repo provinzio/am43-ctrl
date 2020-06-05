@@ -13,6 +13,8 @@ Run `npm install https://github.com/binsentsu/am43-ctrl`
 For making the application persistent across device reboots a possibility is to use pm2:
 https://www.npmjs.com/package/pm2
 
+Node.js saves the .js file to start the process in `node_modules/am43/` and the binary in `/node_modules/.bin` 
+
 # Usage
 `sudo am43ctrl` by itself will print usage information
 
